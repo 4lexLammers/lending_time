@@ -9,6 +9,6 @@ This simple code snippet calculates the average lending time of media articles i
 
 The code can simply be tested, run and changed using Jupyter and Binder.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub-binder.mybinder.ovh/user/4lexlammers-lending_time-shsxaed4/doc)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4lexLammers/lending_time/HEAD?labpath=lending_time.ipynb)
 
 ## Acknowledgments
