@@ -1,0 +1,67 @@
+{
+   "almaId":"",
+   "titleID":"000061375",
+   "shelfmark":"PZS1639_d",
+   "shelfmarkBase":"PZS1639_d",
+   "items":[
+      {
+         "collection":"D23",
+         "shelfmark":"PZS1639_d",
+         "subLibrary":"D0001",
+         "material":"BOOK",
+         "itemStatus":"10",
+         "processStatus":"???",
+         "inventoryDate":"2000-02-18T05:00:00.000Z",
+         "itemId":"234272581900064",
+         "noteOpac":"",
+         "barcode":"DE00314427",
+         "events":[
+            {
+               "beginDate":"2006-03-28T15:47:00.000Z",
+               "endDate":"2006-09-13T10:00:00.000Z",
+               "type":"LOAN",
+               "borrowerStatus":"06",
+               "eventId":"000061375000020"
+            },
+            {
+               "beginDate":"2006-09-13T10:00:00.000Z",
+               "endDate":"2007-03-06T15:45:00.000Z",
+               "type":"LOAN",
+               "borrowerStatus":"06",
+               "eventId":"000061375000020"
+            },
+            {
+               "beginDate":"2007-03-07T12:32:00.000Z",
+               "endDate":"2007-08-22T14:49:00.000Z",
+               "type":"LOAN",
+               "borrowerStatus":"06",
+               "eventId":"000061375000020"
+            }
+         ],
+      "edition": "1",
+      "bibliographicInformation" :[
+        {
+         "isbn":"3-462-01138-3",
+         "doi":"",
+         "authors":[
+            "Ortmann, Günther"
+         ],
+         "title":"Unternehmungsziele als Ideologie",
+         "subtitle":"zur Kritik betriebswirtschaftlicher und organisationstheoretischer Ent-würfe einer Theorie der Unternehmungsziele",
+         "publisher":"Kiepenheuer & Witsch",
+         "place":"",
+         "year":1976,
+         "edition":"",
+         "series":"",
+         "volume":0,
+         "keywords":[
+            "Unternehmensziel"
+         ],
+         "type":"simple",
+         "otherIdentifier":"",
+         "recKey":"000060858"
+              }
+        ]
+       }
+         ]
+      }
