@@ -28,7 +28,3 @@
 ## About
 
 This simple code snippet calculates the average lending time of media articles in a librarien context. Data is provided via a JSON file.
-
-se the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
